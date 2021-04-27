@@ -1,7 +1,8 @@
-SQL Server¡¢mysql¡¢ĞéÄâ»ú·şÎñÈç¹û´ò²»¿ªÇëµ½¡¾¿ªÊ¼¡¿¡¾¹ÜÀí¹¤¾ß¡¿¡¾·şÎñ¡¿ÖĞ¿ªÆôÏà¹Ø·şÎñ¡£
+SQL Serverã€mysqlã€è™šæ‹ŸæœºæœåŠ¡å¦‚æœæ‰“ä¸å¼€è¯·åˆ°ã€å¼€å§‹ã€‘ã€ç®¡ç†å·¥å…·ã€‘ã€æœåŠ¡ã€‘ä¸­å¼€å¯ç›¸å…³æœåŠ¡ã€‚
 
-Navicat for MySQL Á¬½ÓMySqlÊı¾İ¿âÄ¬ÈÏÊµÀı£ºroot,Ä¬ÈÏÃÜÂë£º123456
+Navicat for MySQL è¿æ¥MySqlæ•°æ®åº“é»˜è®¤å®ä¾‹ï¼šroot,é»˜è®¤å¯†ç ï¼š123456
 
-SQL Server Management Studio Á¬½ÓÊı¾İ¿âSQL ServerÄ¬ÈÏÊµÀı£ºsa,ÃÜÂë£ºroot
+SQL Server Management Studio è¿æ¥æ•°æ®åº“SQL Serveré»˜è®¤å®ä¾‹ï¼šsa,å¯†ç ï¼šroot
 
-CentOS Ä¬ÈÏÓÃ»§Ãû:root ÃÜÂë£ºcentos
+CentOS é»˜è®¤ç”¨æˆ·å:root å¯†ç ï¼šcentos
+asdasd
